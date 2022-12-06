@@ -49,7 +49,7 @@ const Contact = () => {
           </Col>
           <Col md={6}>
             <Image
-              src="images/farmhouse.jpg"
+              src="https://picjumbo.com/wp-content/uploads/pizza-salami-vertical-1570x2353.jpg"
               style={{ width: "100%", height: "100%" }}
             />
           </Col>
