@@ -11,7 +11,9 @@ const TopBar = () => {
           {/* /* <h6 className="text-light">
             <MdLocalOffer className="text-warning" /> &nbsp;&nbsp; 
           </h6> */}
-          <div className="navbar-brand"style={{fontFamily:"Lobster"}}>Grab A Bite</div>
+          <div className="navbar-brand"style={{fontFamily:"Lobster"}}><LinkContainer to="/" activeClassName="">
+              <Nav.Link>Grab A Bite</Nav.Link>
+            </LinkContainer></div>
           <Nav className="ms-auto">
             <LinkContainer to="/" activeClassName="">
               <Nav.Link>Home</Nav.Link>
