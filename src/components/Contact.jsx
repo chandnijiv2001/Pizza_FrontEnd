@@ -9,32 +9,9 @@ const Contact = () => {
       <Container style={{ marginTop: "50px" }}>
         <Row>
           <Col md={6}>
-            <h1>Techinfo YT Pizza Shop</h1>
+            <h1>Pan Pizzas Mania</h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores,
-              nostrum magni voluptatem perferendis dolorum nisi architecto
-              maxime voluptas exercitationem. Omnis, iure laudantium eveniet
-              voluptas corrupti deserunt minima. Omnis dolore unde, esse magnam
-              animi nesciunt velit impedit eveniet voluptates beatae libero
-              laboriosam soluta dolorem odio delectus nisi suscipit quaerat
-              repudiandae ratione? Cum fugit inventore porro, ipsum quas
-              voluptas? Optio assumenda ut rem totam ea, sequi consequuntur eos
-              magnam asperiores fugiat repudiandae dolor rerum praesentium a
-              deleniti doloribus exercitationem officiis odio iure quis minus
-              omnis quisquam cumque aperiam. Dolorum sed fugit voluptates vel
-              quia sit molestias. Voluptas sint at maxime saepe, fuga
-              exercitationem incidunt eveniet esse laudantium itaque dolores
-              reiciendis nihil quia iste minus minima quas ut doloremque
-              delectus reprehenderit quo voluptate molestiae omnis earum. Nemo
-              corporis possimus, ea animi quis ipsam, dolorem facere eum sint
-              adipisci aperiam odit repellendus inventore qui eius magnam cumque
-              iste, sit maiores iusto modi distinctio reiciendis. Voluptatem
-              omnis nam iste culpa, a pariatur facere debitis mollitia impedit
-              ea, similique iusto veritatis ab. Eum sint possimus facilis
-              praesentium nostrum iure voluptatem, explicabo dolorum, illum
-              maxime corrupti itaque esse aspernatur voluptates, in officiis
-              temporibus obcaecati. Sunt ad velit beatae deserunt ab iure
-              veritatis modi dolorum? Quisquam, reiciendis iusto.
+             pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot. One of the simplest and most traditional pizzas is the Margherita, which is topped with tomatoes or tomato sauce, mozzarella, and basil. Popular legend relates that it was named for Queen Margherita, wife of Umberto I, who was said to have liked its mild fresh flavour and to have also noted that its topping colours—green, white, and red—were those of the Italian flag.
             </p>
 
             <Table striped bordered hover className="text-center">
@@ -65,7 +42,7 @@ const Contact = () => {
                     <AiOutlineMail />
                   </td>
                   <td>Email</td>
-                  <td>Help@urdomain.com</td>
+                  <td>chandni@urdomain.com</td>
                 </tr>
               </tbody>
             </Table>
