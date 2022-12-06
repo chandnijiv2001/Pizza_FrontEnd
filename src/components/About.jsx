@@ -7,102 +7,34 @@ const About = () => {
       <Container style={{ marginTop: "50px" }}>
         <h1>More About Us</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi eveniet
-          unde vel dignissimos. Cum minima iste quaerat sequi, eum aspernatur
-          dignissimos magni impedit repudiandae, quidem laudantium accusamus
-          modi, ipsa quae! Facilis ducimus vero saepe illo consectetur.
-          Assumenda vel, temporibus voluptatibus possimus eaque beatae
-          distinctio excepturi eos sint dolore ut architecto iure doloribus
-          debitis similique impedit culpa alias voluptatum ab magni odio quia.
-          Suscipit in tempore alias aut nemo minus velit commodi perspiciatis
-          molestias unde doloremque placeat officia quaerat fuga nisi modi vitae
-          consequuntur, illum harum dolore asperiores at illo itaque! Accusamus
-          sed cumque, quo veniam iure aperiam quod dolorem, unde magnam nobis
-          ullam repudiandae repellat! Cumque, beatae explicabo totam quae
-          incidunt voluptates sit nisi aspernatur tenetur rerum molestiae
-          assumenda in autem commodi, doloribus tempora dolor ab eligendi? Amet
-          voluptatem expedita architecto odit possimus, aperiam commodi ullam
-          accusantium nam magni, placeat error ipsum temporibus nihil molestias
-          a minima hic sapiente at est quae porro. Iste iusto provident, totam
-          laborum in molestiae officia voluptatum quis fugiat ullam amet
-          accusantium ipsam aliquid nisi quaerat a repudiandae consequatur
-          reprehenderit. Ea itaque cupiditate vel sequi blanditiis deleniti hic
-          ipsum eaque officiis adipisci omnis, deserunt rerum, laudantium, et
-          impedit quos a eius soluta ut dolore esse.
+          The origin of the word Pizza is uncertain. The food was invented in Naples about 200 years ago. It is the name for a special type of flatbread, made with special dough. The pizza enjoyed a second birth as it was taken to the United States in the late 19th century. Flatbreads, like the focaccia from Liguria, have been known for a very long time. Pizzas need to be baked at temperatures of 200–250 °C. Hardly any household oven could reach such temperatures at the time. Because of this, the pizza was made at home, and then given to the town bakery to bake. In June 1889, the Neapolitan chef Raffaele Esposito created the "Margherita" in honour of Queen Margherita, and was the first pizza to include cheese.
         </p>
         <h1>Our Speciality</h1>
         <Row>
           <Col md={6}>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque in
-              quibusdam deserunt tempore enim veritatis ducimus facilis cum
-              animi ex eius doloribus ratione illo, laborum laboriosam!
-              Consequatur maxime placeat, voluptatum veniam quisquam deleniti
-              laudantium repellendus rerum vitae minima dolorum, earum sapiente
-              rem reiciendis voluptas sunt sed repudiandae eaque! Quas adipisci
-              recusandae debitis officia delectus aliquam id harum quis
-              consequuntur vero, iste maxime eius ullam, praesentium qui ut sit
-              consectetur. Quis provident libero ad veniam possimus minus, nulla
-              molestias. Sapiente ipsa amet odio at omnis natus provident
-              eveniet nam aperiam reiciendis nostrum distinctio ea illum
-              accusantium labore, sed quisquam, temporibus vitae.
+             Pizza was brought to the United States with Italian immigrants in the late nineteenth century; and first appeared in areas where Italian immigrants concentrated. The country's first pizzeria (place that focuses in pizza), Lombardi's, opened in 1905 Veterans returning from World War II's Italian Campaign were a ready market for pizza. Since then, pizza consumption has increased in the U.S. Pizza chains such as Domino's, Pizza Hut, and Papa John's, have outlets all over the nation. Thirteen percent of the U.S. population eats pizza on any given day.
             </p>
           </Col>
           <Col md={6}>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Laboriosam dignissimos recusandae doloremque mollitia dolorem
-              debitis animi. Natus tempore facere perferendis consequuntur quae
-              temporibus dignissimos velit! Dicta aliquam sint recusandae
-              dignissimos neque quia repellendus dolorum autem aspernatur
-              repudiandae similique hic possimus, repellat voluptatibus
-              architecto voluptate consectetur, amet ducimus eos fugiat
-              asperiores. Quae maiores quis animi sit optio dicta aperiam nulla
-              magnam quisquam rem deserunt explicabo, itaque obcaecati iste. Eum
-              corrupti voluptas veritatis neque sunt recusandae temporibus
-              maiores, mollitia facilis repudiandae magni ipsum iste, voluptates
-              ratione rerum quo dolorem aut impedit omnis reiciendis dolores
-              nam. Accusamus ratione sapiente minima vero ex consequatur.
+              Pizza was brought to the United States with Italian immigrants in the late nineteenth century; and first appeared in areas where Italian immigrants concentrated. The country's first pizzeria (place that focuses in pizza), Lombardi's, opened in 1905.Veterans returning from World War II's Italian Campaign were a ready market for pizza.Since then, pizza consumption has increased in the U.S. Pizza chains such as Domino's, Pizza Hut, and Papa John's, have outlets all over the nation. Thirteen percent of the U.S. population eats pizza on any given day.
             </p>
           </Col>
         </Row>
         <Row>
           <h1>Our Cheif</h1>
           <Col md={3}>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla
-            libero adipisci aliquid veniam. Incidunt sequi nesciunt rerum
-            accusamus! Adipisci rerum earum ex eos quos consectetur distinctio
-            nisi, sapiente, dignissimos facere harum reiciendis? Velit
-            laudantium vero aspernatur illum veniam iusto consectetur, facilis
-            excepturi amet exercitationem deleniti, sed assumenda minima! Rerum,
-            eveniet.
+            A pizza chef manages multiple, simultaneous processes —from dough and ingredient prep to cooking pizza in a pizza or wood-fired oven. A good pizza chef makes excellent pizzas and knows how to teach others to toss dough, assemble pizzas and cook them properly.
           </Col>
           <Col md={3}>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla
-            libero adipisci aliquid veniam. Incidunt sequi nesciunt rerum
-            accusamus! Adipisci rerum earum ex eos quos consectetur distinctio
-            nisi, sapiente, dignissimos facere harum reiciendis? Velit
-            laudantium vero aspernatur illum veniam iusto consectetur, facilis
-            excepturi amet exercitationem deleniti, sed assumenda minima! Rerum,
-            eveniet.
+            Depending on the restaurant, a pizza chef may require formal culinary training with a focus on Italian cuisine. Some pizza chefs create original pizza recipes, which can be extremely popular. At a minimum, a pizza chef should be able to read and follow basic cooking directions.
           </Col>
           <Col md={3}>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla
-            libero adipisci aliquid veniam. Incidunt sequi nesciunt rerum
-            accusamus! Adipisci rerum earum ex eos quos consectetur distinctio
-            nisi, sapiente, dignissimos facere harum reiciendis? Velit
-            laudantium vero aspernatur illum veniam iusto consectetur, facilis
-            excepturi amet exercitationem deleniti, sed assumenda minima! Rerum,
-            eveniet.
+            Good pizza chefs provide excellent service to customers. Depending on the type of restaurant, a pizza chef may be in charge of phone orders and take-out deliveries. They should be able to communicate well and resolve customer complaints with diplomacy.Willingness to work flexible schedule Restaurants are often busiest during nights, weekends and holidays. Pizza chefs should be able to work those shifts.
           </Col>
           <Col md={3}>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla
-            libero adipisci aliquid veniam. Incidunt sequi nesciunt rerum
-            accusamus! Adipisci rerum earum ex eos quos consectetur distinctio
-            nisi, sapiente, dignissimos facere harum reiciendis? Velit
-            laudantium vero aspernatur illum veniam iusto consectetur, facilis
-            excepturi amet exercitationem deleniti, sed assumenda minima! Rerum,
-            eveniet.
+            Some pizza chefs may be responsible for administrative tasks related to kitchen management. They may, for example, be responsible for ensuring that ingredients are stocked before service and communicating with procurement or the head chef to order supplies. Pizza chefs may be responsible for ensuring that food costs yield profitability while providing quality ingredients. They may also be responsible for maintaining industrial kitchen equipment and ensuring food preparation areas meet sanitation standards and local health laws.
           </Col>
         </Row>
       </Container>
